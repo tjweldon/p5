@@ -18,7 +18,7 @@ import (
 	"gioui.org/io/event"
 	"gioui.org/io/system"
 	"gioui.org/op"
-	"github.com/go-p5/p5/internal/cmpimg"
+	"github.com/tjweldon/p5/internal/cmpimg"
 )
 
 var GenerateTestData = flag.Bool("regen", false, "Uses the current state to regenerate the test data.")

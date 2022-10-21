@@ -7,7 +7,7 @@ package main
 import (
 	"image/color"
 
-	"github.com/go-p5/p5"
+	"github.com/tjweldon/p5"
 	"gonum.org/v1/gonum/spatial/r2"
 )
 

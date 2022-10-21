@@ -8,7 +8,7 @@
 
 // Package cmpimg compares the raw representation of images taking into account
 // idiosyncracies related to their underlying format (SVG, PDF, PNG, ...).
-package cmpimg // import "github.com/go-p5/p5/internal/cmpimg"
+package cmpimg // import "github.com/tjweldon/p5/internal/cmpimg"
 
 import (
 	"bytes"

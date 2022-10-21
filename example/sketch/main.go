@@ -7,7 +7,7 @@ package sketch
 import (
 	"image/color"
 
-	"github.com/go-p5/p5"
+	"github.com/tjweldon/p5"
 )
 
 func Setup() {

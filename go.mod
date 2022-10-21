@@ -1,4 +1,4 @@
-module github.com/go-p5/p5
+module github.com/tjweldon/p5
 
 go 1.16
 

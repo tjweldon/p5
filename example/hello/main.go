@@ -13,7 +13,7 @@ import (
 	"gioui.org/font/opentype"
 	"gioui.org/text"
 	"github.com/go-fonts/latin-modern/lmroman12regular"
-	"github.com/go-p5/p5"
+	"github.com/tjweldon/p5"
 )
 
 var (

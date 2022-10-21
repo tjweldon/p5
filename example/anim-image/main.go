@@ -14,7 +14,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/go-p5/p5"
+	"github.com/tjweldon/p5"
 	xdraw "golang.org/x/image/draw"
 )
 
