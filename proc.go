@@ -115,6 +115,10 @@ type Proc struct {
 	newWindow func(opts ...app.Option) gioWindow
 }
 
+func NewProc(w, h int) *Proc {
+	return newProc(w, h)
+}
+
 func newProc(w, h int) *Proc {
 	proc := &Proc{
 		ctx: layout.Context{
